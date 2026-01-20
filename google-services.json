@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8541807997",
+    "project_id": "my-secrets-85400",
+    "storage_bucket": "my-secrets-85400.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8541807997:android:ba8454f65c0a41f3105814",
+        "android_client_info": {
+          "package_name": "com.michellemcgeer.mysecrets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbEL5LGlUFnHw3Nrcqr0789V5pAO_sLYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
